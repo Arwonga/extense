@@ -1,0 +1,310 @@
+<mjml>
+  <mj-head>
+    <mj-title>extense | The Signature Edition</mj-title>
+    <mj-preview>Elevating legal inclusion. Discover our Q3 milestones, exclusive insights, and upcoming executive events.</mj-preview>
+    
+    <!-- Elite Typography Stack -->
+    <mj-font name="Cormorant Garamond" href="https://fonts.googleapis.com/css2?family=Cormorant+Garamond:ital,wght@0,400;0,600;0,700;1,400&display=swap" />
+    <mj-font name="Lato" href="https://fonts.googleapis.com/css2?family=Lato:wght@300;400;700&display=swap" />
+    
+    <mj-attributes>
+      <mj-all font-family="Lato, Arial, sans-serif" />
+      <mj-text color="#444444" font-size="15px" line-height="28px" font-weight="300" />
+      <mj-section padding="0px" />
+      <!-- Architectural Button Styling -->
+      <mj-button background-color="#A88755" color="#FFFFFF" font-family="Lato, sans-serif" font-size="13px" font-weight="700" letter-spacing="2.5px" text-transform="uppercase" border-radius="2px" inner-padding="16px 40px" />
+    </mj-attributes>
+
+    <mj-style>
+      /* Smooth Hover Dynamics */
+      .premium-card { transition: all 0.4s ease !important; }
+      .premium-card:hover { transform: translateY(-5px) !important; box-shadow: 0 15px 30px rgba(0,0,0,0.1) !important; }
+      
+      /* Image Zoom FX */
+      .zoom-fx img { transition: transform 0.8s cubic-bezier(0.25, 0.46, 0.45, 0.94) !important; }
+      .zoom-fx:hover img { transform: scale(1.04) !important; }
+
+      /* Gold Accent Line */
+      .gold-border-left { border-left: 2px solid #A88755 !important; }
+    </mj-style>
+  </mj-head>
+  
+  <mj-body background-color="#0D0D0D">
+
+    <!-- ================================== -->
+    <!-- 1. PREMIUM HERO SECTION            -->
+    <!-- ================================== -->
+    <!-- Full bleed cinematic background -->
+    <mj-section background-url="https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?auto=format&fit=crop&w=1200&q=80" background-size="cover" background-repeat="no-repeat" padding="100px 20px 100px 20px">
+      <mj-column width="100%" background-color="rgba(13, 13, 13, 0.85)" padding="50px 30px" css-class="gold-border-left">
+        <mj-image src="https://github.com/Arwonga/extense/blob/main/Extense/EXTENSE+Logo-brown+transparent-G13-removebg-preview.png?raw=true" alt="extense" width="180px" align="left" padding="0px 0px 40px 0px" />
+        <mj-text align="left" color="#A88755" font-size="12px" font-weight="700" letter-spacing="4px" text-transform="uppercase" padding-bottom="10px">
+          The Signature Edition
+        </mj-text>
+        <mj-text align="left" color="#FFFFFF" font-family="'Cormorant Garamond', serif" font-size="52px" line-height="58px" font-weight="600" padding-bottom="20px">
+          Mastering the <br/>Architecture of Inclusion.
+        </mj-text>
+        <mj-text align="left" color="#CCCCCC" font-size="16px" line-height="28px" padding-bottom="40px" width="80%">
+          Redefining excellence in the legal sector through data-driven strategy and lived experience. The Q3 Vanguard Report is now available.
+        </mj-text>
+        <mj-button align="left" href="https://extense.co.uk" padding="0px">
+          Read The Report
+        </mj-button>
+      </mj-column>
+    </mj-section>
+
+    <!-- ================================== -->
+    <!-- 2. EXECUTIVE MESSAGE               -->
+    <!-- ================================== -->
+    <mj-section background-color="#FDFBF7" padding="80px 40px">
+      <mj-column width="45%" vertical-align="middle" padding-right="20px">
+        <mj-image src="https://github.com/Arwonga/extense/blob/main/Extense/MD.jpeg?raw=true" alt="Executive Director" padding="0px" css-class="zoom-fx" />
+      </mj-column>
+      <mj-column width="55%" vertical-align="middle" padding-left="20px" padding-top="20px">
+        <mj-text font-family="'Cormorant Garamond', serif" font-size="34px" color="#111111" line-height="42px" font-style="italic" padding-bottom="20px">
+          "True equity is not a metric to be tracked; it is the foundation upon which elite firms are built."
+        </mj-text>
+        <mj-text color="#555555" font-size="15px" line-height="28px" padding-bottom="30px">
+          Welcome to the Vanguard Edition. This quarter, we've witnessed a paradigm shift. Top-tier firms are no longer asking *why* inclusion matters; they are demanding to know *how* to execute it flawlessly. Our latest index proves that execution is the ultimate differentiator in talent retention. Let’s explore what’s next.
+        </mj-text>
+        <mj-text color="#111111" font-weight="700" font-size="13px" letter-spacing="2px" text-transform="uppercase" padding-bottom="5px">
+          Julian Richard
+        </mj-text>
+        <mj-text color="#A88755" font-size="12px" font-style="italic">
+          Managing Director, extense
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+    <!-- ================================== -->
+    <!-- 3. COMPANY HIGHLIGHTS              -->
+    <!-- ================================== -->
+    <mj-section background-color="#FFFFFF" padding="80px 40px 40px 40px">
+      <mj-column width="100%">
+        <mj-text align="center" color="#A88755" font-size="11px" font-weight="700" letter-spacing="3px" text-transform="uppercase" padding-bottom="15px">
+          Q3 Milestones
+        </mj-text>
+        <mj-text align="center" font-family="'Cormorant Garamond', serif" font-size="38px" color="#111111" padding-bottom="40px">
+          Benchmarking Excellence
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+    <mj-section background-color="#FFFFFF" padding="0px 30px 80px 30px">
+      <mj-column width="33.33%" padding="10px">
+        <mj-wrapper background-color="#FDFBF7" padding="30px 20px" border="1px solid #EEEEEE" css-class="premium-card">
+          <mj-text align="center" font-family="'Cormorant Garamond', serif" font-size="46px" color="#A88755" padding-bottom="10px">01</mj-text>
+          <mj-text align="center" font-weight="700" font-size="14px" color="#111111" text-transform="uppercase" letter-spacing="1px" padding-bottom="10px">The 1% Study</mj-text>
+          <mj-text align="center" font-size="14px" color="#666666" line-height="24px">Nationwide endorsement by the SRA and Black Solicitors Network.</mj-text>
+        </mj-wrapper>
+      </mj-column>
+      <mj-column width="33.33%" padding="10px">
+        <mj-wrapper background-color="#FDFBF7" padding="30px 20px" border="1px solid #EEEEEE" css-class="premium-card">
+          <mj-text align="center" font-family="'Cormorant Garamond', serif" font-size="46px" color="#A88755" padding-bottom="10px">40</mj-text>
+          <mj-text align="center" font-weight="700" font-size="14px" color="#111111" text-transform="uppercase" letter-spacing="1px" padding-bottom="10px">Firms Indexed</mj-text>
+          <mj-text align="center" font-size="14px" color="#666666" line-height="24px">Comprehensive evaluation of the UK's top legal powerhouses.</mj-text>
+        </mj-wrapper>
+      </mj-column>
+      <mj-column width="33.33%" padding="10px">
+        <mj-wrapper background-color="#FDFBF7" padding="30px 20px" border="1px solid #EEEEEE" css-class="premium-card">
+          <mj-text align="center" font-family="'Cormorant Garamond', serif" font-size="46px" color="#A88755" padding-bottom="10px">GOV</mj-text>
+          <mj-text align="center" font-weight="700" font-size="14px" color="#111111" text-transform="uppercase" letter-spacing="1px" padding-bottom="10px">Taskforce</mj-text>
+          <mj-text align="center" font-size="14px" color="#666666" line-height="24px">Appointed to advise the government on socioeconomic diversity.</mj-text>
+        </mj-wrapper>
+      </mj-column>
+    </mj-section>
+
+    <!-- ================================== -->
+    <!-- 4. FEATURED STORIES                -->
+    <!-- ================================== -->
+    <mj-section background-color="#0D0D0D" padding="80px 40px 40px 40px">
+      <mj-column width="100%">
+        <mj-text align="left" color="#A88755" font-size="11px" font-weight="700" letter-spacing="3px" text-transform="uppercase" padding-bottom="15px">
+          Market Intelligence
+        </mj-text>
+        <mj-text align="left" font-family="'Cormorant Garamond', serif" font-size="38px" color="#FFFFFF" padding-bottom="20px">
+          Insights & Perspectives
+        </mj-text>
+        <mj-divider border-width="1px" border-color="#333333" width="100%" padding-bottom="40px" />
+      </mj-column>
+    </mj-section>
+
+    <mj-section background-color="#0D0D0D" padding="0px 30px 80px 30px">
+      <mj-column width="50%" padding="15px">
+        <mj-image src="https://images.unsplash.com/photo-1522071820081-009f0129c71c?auto=format&fit=crop&w=600&q=80" alt="Team" padding="0px" padding-bottom="20px" css-class="zoom-fx" />
+        <mj-text font-family="'Cormorant Garamond', serif" font-size="24px" color="#FFFFFF" line-height="32px" padding-bottom="15px">
+          The Blueprint for Allyship
+        </mj-text>
+        <mj-text font-size="15px" color="#999999" line-height="26px" padding-bottom="20px">
+          Moving past performative allyship into structural frameworks that actually support marginalized talent in high-pressure environments.
+        </mj-text>
+        <mj-text font-size="13px" font-weight="700" color="#A88755" text-transform="uppercase" letter-spacing="1px">
+          <a href="#" style="color:#A88755; text-decoration:none;">Read Article &rarr;</a>
+        </mj-text>
+      </mj-column>
+      <mj-column width="50%" padding="15px">
+        <mj-image src="https://images.unsplash.com/photo-1552664730-d307ca884978?auto=format&fit=crop&w=600&q=80" alt="Boardroom" padding="0px" padding-bottom="20px" css-class="zoom-fx" />
+        <mj-text font-family="'Cormorant Garamond', serif" font-size="24px" color="#FFFFFF" line-height="32px" padding-bottom="15px">
+          Mastering the 'Stay Interview'
+        </mj-text>
+        <mj-text font-size="15px" color="#999999" line-height="26px" padding-bottom="20px">
+          Exit interviews are too late. Discover how leading firms are deploying independent listening sessions to preemptively retain top performers.
+        </mj-text>
+        <mj-text font-size="13px" font-weight="700" color="#A88755" text-transform="uppercase" letter-spacing="1px">
+          <a href="#" style="color:#A88755; text-decoration:none;">Read Article &rarr;</a>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+    <!-- ================================== -->
+    <!-- 5. SERVICES SHOWCASE               -->
+    <!-- ================================== -->
+    <mj-section background-color="#FDFBF7" padding="80px 40px">
+      <mj-column width="100%">
+        <mj-text align="center" font-family="'Cormorant Garamond', serif" font-size="38px" color="#111111" padding-bottom="50px">
+          Consulting Capabilities
+        </mj-text>
+      </mj-column>
+      
+      <!-- Service 1 -->
+      <mj-column width="50%" padding="15px">
+        <mj-wrapper background-color="#FFFFFF" padding="40px 30px" border-top="3px solid #A88755" css-class="premium-card">
+          <mj-text font-family="'Cormorant Garamond', serif" font-size="22px" color="#111111" padding-bottom="10px">Headhunting & Search</mj-text>
+          <mj-text font-size="14px" color="#666666" line-height="24px" padding-bottom="20px">Lateral headhunting solutions designed to uncover exceptional, diverse talent across the legal sector.</mj-text>
+          <mj-button align="left" href="#" background-color="transparent" color="#A88755" border="1px solid #A88755" inner-padding="10px 20px" font-size="11px">Explore</mj-button>
+        </mj-wrapper>
+      </mj-column>
+      
+      <!-- Service 2 -->
+      <mj-column width="50%" padding="15px">
+        <mj-wrapper background-color="#FFFFFF" padding="40px 30px" border-top="3px solid #111111" css-class="premium-card">
+          <mj-text font-family="'Cormorant Garamond', serif" font-size="22px" color="#111111" padding-bottom="10px">Fluency Workshops</mj-text>
+          <mj-text font-size="14px" color="#666666" line-height="24px" padding-bottom="20px">Interactive training modules equipping leadership with the vocabulary and frameworks for genuine inclusion.</mj-text>
+          <mj-button align="left" href="#" background-color="transparent" color="#111111" border="1px solid #111111" inner-padding="10px 20px" font-size="11px">Explore</mj-button>
+        </mj-wrapper>
+      </mj-column>
+    </mj-section>
+
+    <!-- ================================== -->
+    <!-- 6. IMPACT / METRICS SECTION        -->
+    <!-- ================================== -->
+    <mj-section background-color="#A88755" padding="80px 40px">
+      <mj-column width="100%">
+        <mj-text align="center" font-family="'Cormorant Garamond', serif" font-size="34px" color="#FFFFFF" padding-bottom="50px">
+          The Business Case for Equity
+        </mj-text>
+      </mj-column>
+      <mj-column width="33.33%">
+        <mj-text align="center" font-family="'Cormorant Garamond', serif" font-size="56px" color="#FFFFFF" line-height="56px" padding-bottom="5px">36<span style="font-size:30px;">%</span></mj-text>
+        <mj-text align="center" font-size="13px" font-weight="700" color="#FDFBF7" text-transform="uppercase" letter-spacing="1px">Higher Profits</mj-text>
+      </mj-column>
+      <mj-column width="33.33%">
+        <mj-text align="center" font-family="'Cormorant Garamond', serif" font-size="56px" color="#FFFFFF" line-height="56px" padding-bottom="5px">1.5<span style="font-size:30px;">x</span></mj-text>
+        <mj-text align="center" font-size="13px" font-weight="700" color="#FDFBF7" text-transform="uppercase" letter-spacing="1px">Longer Tenure</mj-text>
+      </mj-column>
+      <mj-column width="33.33%">
+        <mj-text align="center" font-family="'Cormorant Garamond', serif" font-size="56px" color="#FFFFFF" line-height="56px" padding-bottom="5px">10<span style="font-size:30px;">%</span></mj-text>
+        <mj-text align="center" font-size="13px" font-weight="700" color="#FDFBF7" text-transform="uppercase" letter-spacing="1px">EBIT Increase</mj-text>
+      </mj-column>
+    </mj-section>
+
+    <!-- ================================== -->
+    <!-- 7. CULTURE / COMMUNITY SECTION     -->
+    <!-- ================================== -->
+    <mj-section background-color="#FFFFFF" padding="80px 40px 0px 40px">
+      <mj-column width="100%">
+        <mj-text align="center" font-family="'Cormorant Garamond', serif" font-size="38px" color="#111111" padding-bottom="30px">
+          Driven by Lived Experience
+        </mj-text>
+        <mj-text align="center" font-size="16px" color="#555555" line-height="28px" padding-bottom="40px" width="85%">
+          We don't just study law firm culture; we are deeply embedded within it. Our unique legal sector specialism allows us to craft strategies that resonate on a profoundly human level.
+        </mj-text>
+        <mj-image src="https://images.unsplash.com/photo-1517048676732-d65bc937f952?auto=format&fit=crop&w=1200&q=80" alt="Culture" padding="0px" css-class="zoom-fx" />
+      </mj-column>
+    </mj-section>
+
+    <!-- ================================== -->
+    <!-- 8. EVENT / ANNOUNCEMENT            -->
+    <!-- ================================== -->
+    <mj-section background-color="#0D0D0D" padding="60px 40px">
+      <mj-column width="60%" vertical-align="middle">
+        <mj-text font-size="12px" color="#A88755" font-weight="700" text-transform="uppercase" letter-spacing="2px" padding-bottom="10px">Upcoming Event</mj-text>
+        <mj-text font-family="'Cormorant Garamond', serif" font-size="28px" color="#FFFFFF" line-height="34px">
+          The 2026 Inclusion Summit
+        </mj-text>
+      </mj-column>
+      <mj-column width="40%" vertical-align="middle">
+        <mj-button href="#" align="right" background-color="#FFFFFF" color="#0D0D0D">
+          Reserve Seat
+        </mj-button>
+      </mj-column>
+    </mj-section>
+
+    <!-- ================================== -->
+    <!-- 9. TESTIMONIAL SECTION             -->
+    <!-- ================================== -->
+    <mj-section background-color="#FDFBF7" padding="100px 40px">
+      <mj-column width="100%">
+        <mj-text align="center" font-family="'Cormorant Garamond', serif" font-size="80px" color="#E5D8C5" line-height="20px" padding-bottom="20px">
+          &ldquo;
+        </mj-text>
+        <mj-text align="center" font-family="'Cormorant Garamond', serif" font-size="26px" color="#111111" line-height="38px" font-style="italic" padding-bottom="40px" width="90%">
+          extense chaired an insightful session for a large group of our partners. Their clear articulation provided us with highly practical steps to implement in our race action plan. We deeply appreciate their support.
+        </mj-text>
+        <mj-text align="center" font-weight="700" font-size="13px" color="#A88755" letter-spacing="2px" text-transform="uppercase">
+          Linklaters LLP
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+    <!-- ================================== -->
+    <!-- 10. FINAL CTA SECTION              -->
+    <!-- ================================== -->
+    <mj-section background-url="https://images.unsplash.com/photo-1497366754035-f200968a6e72?auto=format&fit=crop&w=1200&q=80" background-size="cover" padding="100px 40px">
+      <mj-column width="100%" background-color="rgba(13, 13, 13, 0.9)" padding="60px 40px">
+        <mj-text align="center" font-family="'Cormorant Garamond', serif" font-size="42px" color="#FFFFFF" padding-bottom="20px">
+          Transform Your Firm.
+        </mj-text>
+        <mj-text align="center" color="#CCCCCC" font-size="16px" line-height="28px" padding-bottom="40px">
+          Partner with the legal sector's leading inclusion consultancy to turn your strategic intentions into measurable institutional impact.
+        </mj-text>
+        <mj-button href="https://extense.co.uk/contact">
+          Initiate Consultation
+        </mj-button>
+      </mj-column>
+    </mj-section>
+
+    <!-- ================================== -->
+    <!-- 11. PREMIUM FOOTER                 -->
+    <!-- ================================== -->
+    <mj-section background-color="#050505" padding="80px 40px 40px 40px">
+      <mj-column width="100%">
+        <mj-image src="https://github.com/Arwonga/extense/blob/main/Extense/EXTENSE+Logo-brown+transparent-G13-removebg-preview.png?raw=true" alt="extense" width="160px" align="center" padding-bottom="40px" />
+        
+        <mj-text align="center" padding-bottom="40px">
+          <a href="#" style="color:#A88755; font-size:12px; font-weight:700; text-decoration:none; text-transform:uppercase; letter-spacing:2px; margin:0 15px;">LinkedIn</a>
+          <a href="#" style="color:#A88755; font-size:12px; font-weight:700; text-decoration:none; text-transform:uppercase; letter-spacing:2px; margin:0 15px;">Twitter</a>
+          <a href="#" style="color:#A88755; font-size:12px; font-weight:700; text-decoration:none; text-transform:uppercase; letter-spacing:2px; margin:0 15px;">Contact</a>
+        </mj-text>
+        
+        <mj-divider border-width="1px" border-color="#222222" width="100%" padding-bottom="40px" />
+        
+        <mj-text align="center" color="#666666" font-size="12px" line-height="22px" padding-bottom="20px">
+          <strong>extense consultancy</strong><br/>
+          7 Bell Yard, Chancery Lane, London, WC2A 2JR<br/>
+          +44 (0) 203 468 5601 | info@extense.co.uk
+        </mj-text>
+        
+        <mj-text align="center" color="#444444" font-size="11px" line-height="18px" padding-bottom="20px" width="80%">
+          This communication is intended for subscribers and clients of extense. Extense is a registered member of the government-commissioned Taskforce working group for socioeconomic diversity.
+        </mj-text>
+        
+        <mj-text align="center" color="#444444" font-size="11px">
+          &copy; 2026 extense. All rights reserved. <br/><br/>
+          <a href="#" style="color:#888888; text-decoration:none;">Privacy Policy</a> &nbsp;|&nbsp; <a href="#" style="color:#888888; text-decoration:none;">Unsubscribe</a>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+  </mj-body>
+</mjml>

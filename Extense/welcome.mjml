@@ -1,0 +1,258 @@
+<mjml>
+  <mj-head>
+    <mj-title>extense - Leading Inclusion in the Legal Sector</mj-title>
+    <mj-preview>Law Firm Race & Ethnicity Index 2025™ and The 1% Study details inside.</mj-preview>
+    
+    <mj-font name="Playfair Display" href="https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@0,400;0,600;1,400&display=swap" />
+    <mj-font name="Inter" href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;600&display=swap" />
+    
+    <mj-attributes>
+      <mj-all font-family="Inter, Arial, sans-serif" />
+      <mj-text font-size="15px" color="#333333" line-height="26px" font-weight="300" />
+      <mj-section padding="0px" />
+      <mj-button background-color="transparent" border="1px solid #A88755" color="#A88755" font-family="'Playfair Display', Georgia, serif" font-size="14px" font-weight="600" letter-spacing="2px" text-transform="uppercase" inner-padding="14px 35px" />
+    </mj-attributes>
+    
+    <mj-style>
+      .hover-gold:hover a { background-color: #A88755 !important; color: #ffffff !important; transition: all 0.3s ease; }
+    </mj-style>
+  </mj-head>
+  
+  <mj-body background-color="#e2e2e2">
+    
+    <!-- ===================== -->
+    <!-- 1. HEADER SECTION     -->
+    <!-- ===================== -->
+    <mj-section background-color="#ffffff" padding="40px 20px 20px 20px">
+      <mj-column>
+        <mj-image src="https://raw.githubusercontent.com/Arwonga/extense/main/Extense/EXTENSE%2BLogo-brown%2Btransparent-G13-removebg-preview.png" alt="extense" width="220px" padding="0px" />
+      </mj-column>
+    </mj-section>
+
+    <!-- ===================== -->
+    <!-- 2. HERO SECTION       -->
+    <!-- ===================== -->
+    <mj-section background-color="#000000" padding="80px 20px" background-url="https://images.unsplash.com/photo-1589829085413-56de8ae18c73?auto=format&fit=crop&q=80&w=1200" background-size="cover" background-repeat="no-repeat">
+      <mj-column width="90%" background-color="rgba(0,0,0,0.8)" padding="50px 30px">
+        <mj-text align="center" font-family="'Playfair Display', Georgia, serif" font-size="40px" color="#ffffff" line-height="50px" padding-bottom="15px">
+          Level up through inclusion
+        </mj-text>
+        <mj-divider border-width="1px" border-color="#A88755" width="50px" padding-bottom="25px" />
+        <mj-text align="center" color="#e0e0e0" font-size="16px" line-height="28px" padding-bottom="35px">
+          extense is the legal sector specialist inclusion consultancy, training provider, and a lateral headhunting solution.
+        </mj-text>
+        <mj-button href="https://extense.co.uk" css-class="hover-gold">
+          Discover Our Services
+        </mj-button>
+      </mj-column>
+    </mj-section>
+
+    <!-- ===================== -->
+    <!-- 3. RACE & ETHNICITY   -->
+    <!-- ===================== -->
+    <mj-section background-color="#000000" padding="70px 30px">
+      <mj-column width="100%">
+        <!-- Title -->
+        <mj-image src="https://github.com/Arwonga/extense/blob/main/Extense/EXTENSE+Logo-brown+transparent-G13-removebg-preview.png?raw=true" alt="extense" width="220px" padding="0px 0px 30px 0px" />
+        <mj-text align="center" font-family="'Playfair Display', Georgia, serif" font-size="24px" color="#A88755" padding-bottom="30px">
+          Law Firm Race & Ethnicity Index 2025™
+        </mj-text>
+        
+        <!-- Paragraphs -->
+        <mj-text align="left" color="#e0e0e0" font-size="15px" line-height="26px" padding-bottom="20px">
+          <strong>extense</strong>Law Firm Race & Ethnicity Index gives you a wide-angle view of the competing positions of the top 40 UK and US law firms in the UK, specific to race and ethnicity diversity, equity and inclusion.
+        </mj-text>
+        <mj-text align="left" color="#e0e0e0" font-size="15px" line-height="26px" padding-bottom="20px">
+          Our evaluation is the culmination of multiple years of primary research across the UK legal market. We use proprietary quantitative and qualitative data analysis methods to measure the relative market positions of law firms, specific to their execution and innovation in diversity, equity and inclusion; specific to race and ethnicity.
+        </mj-text>
+        <mj-text align="left" color="#e0e0e0" font-size="15px" line-height="26px" padding-bottom="20px">
+          Applying a graphical treatment and a uniform set of evaluation metrics, our Law Race & Ethnicity Index helps you to quickly ascertain how well law firms in the UK are progressing their stated race and ethnicity DE&I strategy, and how well they are performing against the market view.
+        </mj-text>
+        <mj-text align="left" color="#e0e0e0" font-size="15px" line-height="26px" padding-bottom="40px">
+          <strong>extense</strong>
+           works with law firm clients and prospective purchasers of legal services to compare and contrast law firm strengths and challenges in relation to ethnicity DE&I. Assessments are in the context of external counsel RFP and panel selection criteria.
+        </mj-text>
+        
+        <!-- Button -->
+        <mj-button href="https://extense.co.uk/contact" css-class="hover-gold" inner-padding="16px 40px">
+          Rankings Available Upon Request
+        </mj-button>
+      </mj-column>
+    </mj-section>
+
+    <!-- ===================== -->
+    <!-- 4. 8-SERVICE GRID     -->
+    <!-- ===================== -->
+    <mj-section background-color="#ffffff" padding="70px 20px 20px 20px">
+      <!-- Row 1 -->
+      <mj-column width="50%" padding-bottom="40px">
+        <mj-image src="https://github.com/Arwonga/extense/blob/main/Extense/Listening+sessions.png?raw=true" alt="Independent listening sessions" width="90px" padding-bottom="15px" />
+        <mj-text align="center" font-weight="600" color="#111111">Independent listening sessions</mj-text>
+      </mj-column>
+      <mj-column width="50%" padding-bottom="40px">
+        <mj-image src="https://github.com/Arwonga/extense/blob/main/Extense/commissioned.png?raw=true" alt="Commissioned research" width="90px" padding-bottom="15px" />
+        <mj-text align="center" font-weight="600" color="#111111">Commissioned research</mj-text>
+      </mj-column>
+      
+      <!-- Row 2 -->
+      <mj-column width="50%" padding-bottom="40px">
+        <mj-image src="https://github.com/Arwonga/extense/blob/main/Extense/race.png?raw=true" alt="Race Fluency" width="90px" padding-bottom="15px" />
+        <mj-text align="center" font-weight="600" color="#111111">Race Fluency / Allyship workshop</mj-text>
+      </mj-column>
+      <mj-column width="50%" padding-bottom="40px">
+        <mj-image src="https://github.com/Arwonga/extense/blob/main/Extense/supervisor.png?raw=true" alt="Supervisor training" width="90px" padding-bottom="15px" />
+        <mj-text align="center" font-weight="600" color="#111111">Supervisor training</mj-text>
+      </mj-column>
+      
+      <!-- Row 3 -->
+      <mj-column width="50%" padding-bottom="40px">
+        <mj-image src="https://github.com/Arwonga/extense/blob/main/Extense/external.png?raw=true" alt="External stay interviews" width="90px" padding-bottom="15px" />
+        <mj-text align="center" font-weight="600" color="#111111">External 'stay interviews'</mj-text>
+      </mj-column>
+      <mj-column width="50%" padding-bottom="40px">
+        <mj-image src="https://github.com/Arwonga/extense/blob/main/Extense/retained.png?raw=true" alt="Retained search" width="90px" padding-bottom="15px" />
+        <mj-text align="center" font-weight="600" color="#111111">Retained search</mj-text>
+      </mj-column>
+
+      <!-- Row 4 -->
+      <mj-column width="50%" padding-bottom="40px">
+        <mj-image src="https://github.com/Arwonga/extense/blob/main/Extense/inclussive.png?raw=true" alt="Inclusive recruiting workshop" width="90px" padding-bottom="15px" />
+        <mj-text align="center" font-weight="600" color="#111111">Inclusive recruiting workshop</mj-text>
+      </mj-column>
+      <mj-column width="50%" padding-bottom="40px">
+        <mj-image src="https://github.com/Arwonga/extense/blob/main/Extense/Speaker.png?raw=true" alt="Speaker / Moderator booking" width="90px" padding-bottom="15px" />
+        <mj-text align="center" font-weight="600" color="#111111">Speaker / Moderator booking</mj-text>
+      </mj-column>
+    </mj-section>
+    
+    <!-- Enquire Button for Grid -->
+    <mj-section background-color="#ffffff" padding="0px 20px 60px 20px">
+      <mj-column width="100%">
+         <mj-button href="https://extense.co.uk/contact" css-class="hover-gold" inner-padding="14px 50px">
+          Enquire
+        </mj-button>
+      </mj-column>
+    </mj-section>
+
+    <!-- ===================== -->
+    <!-- 5. DELIVERABLES / ROI -->
+    <!-- ===================== -->
+    <mj-section background-color="#ffffff" padding="70px 20px 20px 20px">
+      <mj-column width="100%">
+        <mj-text align="center" font-family="'Playfair Display', Georgia, serif" font-size="28px" color="#111111" padding-bottom="50px">
+          Our deliverables benefit your business outcomes.
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+    <mj-section background-color="#ffffff" padding="0px 10px 70px 10px">
+      
+      <!-- ITEM 1 -->
+      <mj-column width="25%" padding="0px 10px">
+        <!-- Replace src with your hosted 36% circle image -->
+        <mj-image src="https://github.com/Arwonga/extense/blob/main/Extense/36%25+BETTER+PROFIT+PROSPECTS.png?raw=true" alt="36% Better Profit Prospects" width="130px" padding-bottom="20px" />
+        <mj-text align="center" border="1px solid #A88755" padding="15px 5px" font-size="12px" line-height="18px">
+          Enhance your profitability &nbsp;<span style="font-size: 10px;">+</span>
+        </mj-text>
+      </mj-column>
+      
+      <!-- ITEM 2 -->
+      <mj-column width="25%" padding="0px 10px">
+         <!-- Replace src with your hosted 20% circle image -->
+         <mj-image src="https://github.com/Arwonga/extense/blob/main/Extense/20%25+LESS+TENURE.png?raw=true" alt="20% Less Tenure" width="130px" padding-bottom="20px" />
+         <mj-text align="center" border="1px solid #A88755" padding="15px 5px" font-size="12px" line-height="18px">
+          Tackle your<br/>'stay gap' &nbsp;<span style="font-size: 10px;">+</span>
+        </mj-text>
+      </mj-column>
+      
+      <!-- ITEM 3 -->
+      <mj-column width="25%" padding="0px 10px">
+         <!-- Replace src with your hosted 1.5 circle image -->
+         <mj-image src="https://github.com/Arwonga/extense/blob/main/Extense/1.5+YEARS+LONGER.png?raw=true" alt="1.5 Years Longer" width="130px" padding-bottom="20px" />
+         <mj-text align="center" border="1px solid #A88755" padding="15px 5px" font-size="12px" line-height="18px">
+          Level your<br/>playing field &nbsp;<span style="font-size: 10px;">+</span>
+        </mj-text>
+      </mj-column>
+      
+      <!-- ITEM 4 -->
+      <mj-column width="25%" padding="0px 10px">
+         <!-- Replace src with your hosted 10% circle image -->
+         <mj-image src="https://github.com/Arwonga/extense/blob/main/Extense/10%25+HIGHER+EBIT.png?raw=true" alt="10% Higher EBIT" width="130px" padding-bottom="20px" />
+         <mj-text align="center" border="1px solid #A88755" padding="15px 5px" font-size="12px" line-height="18px">
+          Increase your<br/>earnings &nbsp;<span style="font-size: 10px;">+</span>
+        </mj-text>
+      </mj-column>
+      
+    </mj-section>
+
+    <!-- ===================== -->
+    <!-- 6. THE 1% STUDY       -->
+    <!-- ===================== -->
+    <mj-section background-color="#ffffff" padding="70px 30px">
+      <mj-column width="100%">
+        <mj-text align="center" font-family="'Playfair Display', Georgia, serif" font-size="32px" color="#A88755" padding-bottom="10px">
+          The 1% Study
+        </mj-text>
+        <mj-divider border-width="1px" border-color="#A88755" width="60px" padding-bottom="30px" />
+        
+        <mj-text align="left" color="#444444" padding-bottom="20px">
+          The 1% Study' is an <strong>extense</strong> primary research investigation to discover the key contributing factors that have assisted Black solicitors to reach the partnership level within major law firms in the UK. The research is endorsed by the <strong>Black Solicitors Network, The Law Society of England and Wales</strong>, and the <strong>Solicitors Regulation Authority</strong>.
+        </mj-text>
+        
+        <mj-text align="left" color="#444444" padding-bottom="20px">
+          <strong>Rt Hon. David Lammy MP</strong> (UK Deputy Prime Minister) is the official Patron to 'The 1% Study'.
+        </mj-text>
+        
+        <mj-text align="left" color="#444444" padding-bottom="40px">
+          'The 1% Study' is sponsored by: <strong>DLA Piper; Herbert Smith Freehills; Hogan Lovells; Latham & Watkins;</strong> and <strong>Linklaters</strong>.
+        </mj-text>
+
+      </mj-column>
+    </mj-section>
+
+
+    <mj-section background-color="#ffffff" padding="0px 20px 70px 20px">
+      <mj-column width="100%">
+    
+        <mj-image src="https://github.com/Arwonga/extense/blob/main/Extense/1%25.webp?raw=true" alt="Launch Event Video" href="https://extense.co.uk/the-1-study" border="1px solid #e0e0e0" />
+      </mj-column>
+    </mj-section>
+
+    <!-- ===================== -->
+    <!-- 8. CONTACT US         -->
+    <!-- ===================== -->
+    <mj-section background-color="#fbfaf8" padding="70px 20px">
+      <mj-column width="100%">
+        <mj-text align="center" font-family="'Playfair Display', Georgia, serif" font-size="32px" color="#111111" padding-bottom="15px">
+          Contact
+        </mj-text>
+        <mj-divider border-width="1px" border-color="#A88755" width="40px" padding-bottom="25px" />
+        <mj-text align="center" color="#555555" font-size="16px" line-height="28px" padding-bottom="35px">
+          Ready to turn your inclusion intentions into impact? Get in touch with our team today to discuss how we can tailor our primary research and strategic insights to your firm.
+        </mj-text>
+        <mj-button href="https://extense.co.uk/contact" css-class="hover-gold" inner-padding="16px 50px">
+          Submit An Enquiry
+        </mj-button>
+      </mj-column>
+    </mj-section>
+
+    <!-- ===================== -->
+    <!-- 9. FOOTER SECTION     -->
+    <!-- ===================== -->
+    <mj-section background-color="#111111" padding="60px 20px 40px 20px">
+      <mj-column width="100%">
+        <mj-image src="https://github.com/Arwonga/extense/blob/main/Extense/EXTENSE+Logo-brown+transparent-G13-removebg-preview.png?raw=true" alt="extense" width="220px" padding-bottom="10px" />
+        <mj-text align="center" color="#777777" font-size="13px" line-height="24px">
+          7 Bell Yard | Chancery Lane | London | WC2A 2JR<br />
+          +44 (0) 203 468 5601
+        </mj-text>
+        <mj-divider border-width="1px" border-color="#222222" width="80%" padding-top="30px" padding-bottom="20px" />
+        <mj-text align="center" color="#555555" font-size="12px">
+          © 2026 extense. All rights reserved. <br/><br/>
+          If you no longer wish to receive these emails, you may <a href="#" style="color:#A88755; text-decoration:none;">unsubscribe</a>.
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+  </mj-body>
+</mjml>

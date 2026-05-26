@@ -1,0 +1,292 @@
+<mjml>
+  <mj-head>
+    <mj-title>extense - Design 2</mj-title>
+    <mj-preview>Level up through inclusion. Discover the Law Firm Race & Ethnicity Index 2025.</mj-preview>
+    
+    
+    <mj-font name="Montserrat" href="https://fonts.googleapis.com/css2?family=Montserrat:wght@300;400;600;700&display=swap" />
+    <mj-font name="Merriweather" href="https://fonts.googleapis.com/css2?family=Merriweather:ital,wght@0,300;0,700;1,300&display=swap" />
+    
+    <mj-attributes>
+      <mj-all font-family="Montserrat, sans-serif" />
+      <mj-text color="#333333" line-height="26px" />
+      <mj-section padding="0px" />
+      
+      <mj-button background-color="#A88755" color="#ffffff" font-family="Montserrat, sans-serif" font-weight="600" text-transform="uppercase" letter-spacing="2px" border-radius="0px" inner-padding="16px 35px" />
+    </mj-attributes>
+
+    <mj-style>
+      .editorial-quote { border-left: 4px solid #A88755; padding-left: 20px; margin: 10px 0; }
+      .hover-fade:hover a { opacity: 0.8; transition: all 0.3s ease; }
+    </mj-style>
+  </mj-head>
+  
+  <mj-body background-color="#f4f4f4">
+
+    <!-- ===================== -->
+    <!-- 1. MINIMALIST HEADER  -->
+    <!-- ===================== -->
+    <mj-section background-color="#ffffff" padding="40px 20px 20px 20px">
+      <mj-column>
+        <mj-image src="https://github.com/Arwonga/extense/blob/main/Extense/EXTENSE+Logo-brown+transparent-G13-removebg-preview.png?raw=true" alt="extense" width="220px" padding="0px" />
+        <mj-divider border-width="1px" border-color="#eeeeee" width="100%" padding-top="30px" padding-bottom="0px" />
+      </mj-column>
+    </mj-section>
+
+    <!-- ===================== -->
+    <!-- 2. ASYMMETRICAL HERO  -->
+    <!-- ===================== -->
+    <mj-section background-color="#ffffff">
+      <!-- Left: Dark Editorial Text Block -->
+      <mj-column width="50%" background-color="#111111" padding="60px 30px">
+        <mj-text color="#A88755" font-size="11px" font-weight="700" letter-spacing="3px" padding-bottom="15px" text-transform="uppercase">
+          The Legal Sector Specialist
+        </mj-text>
+        <mj-text color="#ffffff" font-family="'Merriweather', Georgia, serif" font-size="36px" line-height="46px" padding-bottom="20px">
+          Level up<br/>through<br/>inclusion.
+        </mj-text>
+        <mj-text color="#cccccc" font-size="14px" line-height="24px" padding-bottom="40px">
+          <strong>extense</strong> is the legal sector specialist inclusion consultancy, training provider, and a lateral headhunting solution.
+        </mj-text>
+        <mj-button align="left" href="https://extense.co.uk" css-class="hover-fade">
+          Work With Us
+        </mj-button>
+      </mj-column>
+      <!-- Right: Flush Image -->
+      <mj-column width="50%">
+        
+        <mj-image src="https://github.com/Arwonga/extense/blob/main/Extense/4444444.jpg?raw=true" padding="0px" alt="Lady Justice" />
+      </mj-column>
+    </mj-section>
+
+    <!-- ===================== -->
+    <!-- 3. ZIG-ZAG 1: SERVICES-->
+    <!-- ===================== -->
+    <mj-section background-color="#FAFAFA" padding="60px 20px">
+      <!-- Image Left -->
+      <mj-column width="45%" vertical-align="middle" padding-right="15px">
+        <mj-image src="https://github.com/Arwonga/extense/blob/main/Extense/333333.jpg?raw=true" padding="0px" alt="Corporate Boardroom" border-radius="4px" />
+      </mj-column>
+      <!-- Text Right -->
+      <mj-column width="55%" vertical-align="middle" padding-left="25px">
+        <mj-text font-family="'Merriweather', Georgia, serif" font-size="28px" color="#111111" padding-bottom="20px">
+          Strategic Execution
+        </mj-text>
+        <mj-text font-size="14px" color="#555555" padding-bottom="20px">
+          We hand-hold organisations through each step of their inclusion journey, turning intentions into impact across our core deliverables:
+        </mj-text>
+        <!-- Custom Editorial List -->
+        <mj-text font-size="13px" color="#333333" font-weight="600" padding-bottom="5px">
+          <span style="color:#A88755;">&mdash;</span> Independent listening sessions
+        </mj-text>
+        <mj-text font-size="13px" color="#333333" font-weight="600" padding-bottom="5px">
+          <span style="color:#A88755;">&mdash;</span> Commissioned research & Stay interviews
+        </mj-text>
+        <mj-text font-size="13px" color="#333333" font-weight="600" padding-bottom="5px">
+          <span style="color:#A88755;">&mdash;</span> Race Fluency & Allyship workshops
+        </mj-text>
+        <mj-text font-size="13px" color="#333333" font-weight="600" padding-bottom="5px">
+          <span style="color:#A88755;">&mdash;</span> Supervisor training & Inclusive recruiting
+        </mj-text>
+        <mj-text font-size="13px" color="#333333" font-weight="600" padding-bottom="20px">
+          <span style="color:#A88755;">&mdash;</span> Retained search & Speaker booking
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+    <!-- ===================== -->
+    <!-- 4. DELIVERABLES STATS -->
+    <!-- ===================== -->
+    <mj-section background-color="#ffffff" padding="70px 20px 20px 20px">
+      <mj-column width="100%">
+        <mj-text align="center" font-family="'Merriweather', Georgia, serif" font-size="26px" color="#111111" padding-bottom="40px">
+          Benefiting your business outcomes.
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+    <mj-section background-color="#ffffff" padding="0px 10px 70px 10px">
+      
+      <mj-column width="25%" padding="0px 10px">
+        <mj-image src="https://github.com/Arwonga/extense/blob/main/Extense/36%25+BETTER+PROFIT+PROSPECTS.png?raw=true" alt="36% Better Profit" width="110px" padding-bottom="15px" />
+        <mj-text align="center" border="1px solid #A88755" padding="10px 5px" font-size="11px" line-height="16px" font-weight="600">
+          Enhance your profitability <span style="color:#A88755">+</span>
+        </mj-text>
+      </mj-column>
+      <mj-column width="25%" padding="0px 10px">
+         <mj-image src="https://github.com/Arwonga/extense/blob/main/Extense/20%25+LESS+TENURE.png?raw=true" alt="20% Less Tenure" width="110px" padding-bottom="15px" />
+         <mj-text align="center" border="1px solid #A88755" padding="10px 5px" font-size="11px" line-height="16px" font-weight="600">
+          Tackle your 'stay gap' <span style="color:#A88755">+</span>
+        </mj-text>
+      </mj-column>
+      <mj-column width="25%" padding="0px 10px">
+         <mj-image src="https://github.com/Arwonga/extense/blob/main/Extense/1.5+YEARS+LONGER.png?raw=true" alt="1.5 Years Longer" width="110px" padding-bottom="15px" />
+         <mj-text align="center" border="1px solid #A88755" padding="10px 5px" font-size="11px" line-height="16px" font-weight="600">
+          Level your playing field <span style="color:#A88755">+</span>
+        </mj-text>
+      </mj-column>
+      <mj-column width="25%" padding="0px 10px">
+         <mj-image src="https://github.com/Arwonga/extense/blob/main/Extense/10%25+HIGHER+EBIT.png?raw=true" alt="10% Higher EBIT" width="110px" padding-bottom="15px" />
+         <mj-text align="center" border="1px solid #A88755" padding="10px 5px" font-size="11px" line-height="16px" font-weight="600">
+          Increase your earnings <span style="color:#A88755">+</span>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+    <!-- ===================== -->
+    <!-- 5. THE 1% STUDY       -->
+    <!-- ===================== -->
+    <!-- Dark inverted section for high contrast -->
+    <mj-section background-color="#111111" padding="70px 30px">
+      <!-- Text Left -->
+      <mj-column width="55%" vertical-align="middle" padding-right="20px">
+        <mj-text font-family="'Merriweather', Georgia, serif" font-size="30px" color="#A88755" padding-bottom="20px">
+          The 1% Study
+        </mj-text>
+        <mj-text color="#cccccc" font-size="14px" line-height="24px" padding-bottom="20px">
+          An <strong>extense</strong> primary research investigation to discover the key contributing factors that have assisted Black solicitors to reach the partnership level within major law firms in the UK.
+        </mj-text>
+        <mj-text color="#cccccc" font-size="13px" line-height="22px" padding-bottom="20px">
+          Endorsed by the <strong>Black Solicitors Network, The Law Society of England and Wales</strong>, and the <strong>Solicitors Regulation Authority</strong>. Patron: Rt Hon. David Lammy MP.
+        </mj-text>
+        <mj-text color="#cccccc" font-size="12px" line-height="20px" padding-bottom="30px" font-style="italic">
+          Sponsored by: DLA Piper, Herbert Smith Freehills, Hogan Lovells, Latham & Watkins, and Linklaters.
+        </mj-text>
+        <mj-button align="left" href="https://extense.co.uk/the-1-study" background-color="transparent" border="1px solid #A88755" color="#A88755">
+          View The Report
+        </mj-button>
+      </mj-column>
+      <!-- Image Right -->
+      <mj-column width="45%" vertical-align="middle">
+        <mj-image src="https://github.com/Arwonga/extense/blob/main/Extense/1%25.webp?raw=true" padding="0px" width="600px" fluid-on-mobile="true" alt="The 1% Study" />
+      </mj-column>
+    </mj-section>
+
+    <!-- ===================== -->
+    <!-- 6. PULL-QUOTE FEATURE -->
+    <!-- ===================== -->
+    <mj-section background-color="#FAFAFA" padding="60px 40px">
+      <mj-column width="100%">
+        <mj-text align="center" font-family="'Merriweather', Georgia, serif" font-size="60px" color="#A88755" line-height="20px" padding-bottom="0px">
+          &ldquo;
+        </mj-text>
+        <mj-text align="center" font-family="'Merriweather', Georgia, serif" font-size="20px" color="#333333" line-height="34px" font-style="italic" padding-bottom="20px">
+          Their clear articulation of the research findings and the suggested 'actions for law firms' provided us with insight and practical steps to implement in our race action plan. We really appreciate extense's support in working to achieve our objectives.
+        </mj-text>
+        <mj-text align="center" font-weight="700" color="#111111" font-size="14px" letter-spacing="1px" text-transform="uppercase">
+          — Linklaters LLP
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+    <!-- ===================== -->
+    <!-- 7. TASKFORCE ZIG-ZAG  -->
+    <!-- ===================== -->
+    <mj-section background-color="#ffffff" padding="60px 20px 80px 20px">
+      <!-- Image Left -->
+      <mj-column width="45%" vertical-align="middle" padding-right="15px">
+        <mj-image src="https://github.com/Arwonga/extense/blob/main/Extense/222222.jpg?raw=true" padding="0px" alt="Architecture" border-radius="4px" />
+      </mj-column>
+      <!-- Text Right -->
+      <mj-column width="55%" vertical-align="middle" padding-left="25px">
+        <mj-text font-family="'Merriweather', Georgia, serif" font-size="26px" color="#111111" padding-bottom="20px">
+          Taskforce Appointment
+        </mj-text>
+        <mj-text font-size="14px" color="#555555" line-height="26px" padding-bottom="30px">
+          In 2021, <strong>extense</strong> was appointed to a government commissioned Taskforce working group, to boost socio-economic diversity at senior levels across UK Financial Services and Professional Services.
+        </mj-text>
+        <mj-button align="left" href="https://extense.co.uk/taskforce" background-color="#111111" color="#ffffff">
+          Read More
+        </mj-button>
+      </mj-column>
+    </mj-section>
+
+    <!-- ===================== -->
+    <!-- NEW: THE VISION BOX   -->
+    <!-- ===================== -->
+    <mj-section background-color="#ffffff" padding="70px 20px">
+      <!-- Portrait Image -->
+      <mj-column width="40%" vertical-align="middle" padding-right="20px">
+    
+        <mj-image src="https://github.com/Arwonga/extense/blob/main/Extense/MD.jpeg?raw=true" alt="Leadership" padding="0px" />
+      </mj-column>
+      <!-- Editorial Text -->
+      <mj-column width="60%" vertical-align="middle" padding-left="10px">
+        <mj-text font-family="'Merriweather', Georgia, serif" font-size="24px" color="#A88755" padding-bottom="15px">
+          The Vanguard Approach
+        </mj-text>
+        <mj-text color="#333333" font-size="15px" line-height="28px" padding-bottom="20px" font-style="italic">
+          "We don't just consult; we integrate. Understanding the unique lifecycle of a legal professional allows us to tailor inclusion strategies that resonate at every level of your firm—from trainees to senior partners."
+        </mj-text>
+        <mj-text color="#111111" font-weight="700" font-size="11px" letter-spacing="2px" text-transform="uppercase" padding-bottom="10px">
+          Managing Director
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+    <!-- ===================== -->
+    <!-- NEW: ENGAGEMENT BOX   -->
+    <!-- ===================== -->
+    <mj-section background-color="#ffffff" padding="20px 30px 80px 30px">
+      <mj-column width="100%" border="1px solid #A88755" padding="50px 20px">
+        <mj-text align="center" font-family="'Merriweather', Georgia, serif" font-size="28px" color="#111111" padding-bottom="15px">
+          Race Fluency & Allyship
+        </mj-text>
+        <mj-text align="center" color="#555555" font-size="15px" line-height="26px" padding-bottom="35px">
+          Equip your leadership with the vocabulary, confidence, and strategic frameworks needed to foster genuine inclusion and drive systemic change across your organization.
+        </mj-text>
+        <mj-button align="center" href="https://extense.co.uk/contact" background-color="transparent" color="#A88755" border="1px solid #A88755" inner-padding="16px 40px" css-class="hover-fade">
+          Book A Workshop
+        </mj-button>
+      </mj-column>
+    </mj-section>
+
+    <!-- ===================== -->
+    <!-- 8. CLIENT LOGOS       -->
+    <!-- ===================== -->
+    <mj-section background-color="#FAFAFA" padding="40px 20px">
+      <mj-column width="100%">
+        <mj-text align="center" font-family="'Merriweather', Georgia, serif" font-size="18px" color="#A88755" padding-bottom="20px">
+          Trusted Partners
+        </mj-text>
+      </mj-column>
+      <mj-group>
+        
+        <mj-column width="20%" vertical-align="middle">
+          <mj-image src="https://github.com/Arwonga/extense/blob/main/Extense/(1)+Latham_&_Watkins+-+Sponsor+Logo.webp?raw=true" alt="Latham" padding="10px" />
+        </mj-column>
+        <mj-column width="20%" vertical-align="middle">
+          <mj-image src="https://github.com/Arwonga/extense/blob/main/Extense/(1)+2560px-Linklaters.svg.webp?raw=true" alt="Linklaters" padding="10px" />
+        </mj-column>
+        <mj-column width="20%" vertical-align="middle">
+          <mj-image src="https://github.com/Arwonga/extense/blob/main/Extense/(1)+DLA_Piper_A4+US+Letter_Dark+Blue.webp?raw=true" alt="DLA Piper" padding="10px" />
+        </mj-column>
+        <mj-column width="20%" vertical-align="middle">
+          <mj-image src="https://github.com/Arwonga/extense/blob/main/Extense/(1)+Hogan_Lovells_logo.svg.webp?raw=true" alt="Hogan Lovells" padding="10px" />
+        </mj-column>
+        <mj-column width="20%" vertical-align="middle">
+          <mj-image src="https://github.com/Arwonga/extense/blob/main/Extense/HSF_Logo2_100mm_RGB.webp?raw=true" alt="Hogan Lovells" padding="10px" />
+        </mj-column>
+      </mj-group>
+    </mj-section>
+
+    <!-- ===================== -->
+    <!-- 9. EDITORIAL FOOTER   -->
+    <!-- ===================== -->
+    <mj-section background-color="#111111" padding="70px 20px">
+      <mj-column width="100%">
+        <mj-image src="https://github.com/Arwonga/extense/blob/main/Extense/EXTENSE+Logo-brown+transparent-G13-removebg-preview.png?raw=true" alt="extense" width="180px" padding-bottom="30px" />
+        <mj-text align="center" color="#888888" font-size="12px" line-height="24px" letter-spacing="1px">
+          7 BELL YARD | CHANCERY LANE | LONDON | WC2A 2JR<br />
+          +44 (0) 203 468 5601
+        </mj-text>
+        <mj-divider border-width="1px" border-color="#222222" width="60%" padding-top="30px" padding-bottom="20px" />
+        <mj-text align="center" color="#555555" font-size="11px">
+          © 2026 extense. All rights reserved. <br/><br/>
+          <a href="#" style="color:#A88755; text-decoration:none;">Unsubscribe</a>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+  </mj-body>
+</mjml>
